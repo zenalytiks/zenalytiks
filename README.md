@@ -46,7 +46,7 @@ I specialize in developing web-based interactive graphs and data dashboards. ğŸ“
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zenalytiks&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zenalytiks&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 100%; height: 200px" /></div>
 
 </td><td valign="top" width="50%">
 
