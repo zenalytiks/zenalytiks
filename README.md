@@ -68,12 +68,5 @@ I specialize in developing web-based interactive graphs and data dashboards. ğŸ“
 
 <br/>  
 
-  
-
-<br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
