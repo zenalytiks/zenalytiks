@@ -17,15 +17,7 @@
 ### Glad to see you here!  
 I’m a Software Engineering graduate who’s been working full-time as a freelancer.<br>
 I specialize in developing web-based interactive graphs and data dashboards. 📊  
-  
-
-<br/>  
-
-
-
-</td></tr></table>  
-
-<br/>  
+ 
 
 
 ## Languages and Tools  
