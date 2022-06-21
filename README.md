@@ -56,9 +56,10 @@ I specialize in developing web-based interactive graphs and data dashboards. ğŸ“
 
 <br/>  
 
-  
-
-<br/>  
+## StackOverflow Stats
+<img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=19249238&theme=dracula"
+/>
 
 
 
