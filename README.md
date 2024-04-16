@@ -1,4 +1,4 @@
-## <div align="center">Hey 👋, I'm Waleed Malik!</div>  
+## <div align="center">Hey 👋</div>  
   
 
 <a href="https://twitter.com/zenalytiks" target="_blank">
